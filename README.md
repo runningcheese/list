@@ -1,14 +1,10 @@
 
-
-
 <br/>
-<p align="center">
-  <img src="https://gcore.jsdelivr.net/gh/runningcheese/search/assets/s18logo.png" width="148" height="148"/>
-</p>
+<p align="center">  <img src="https://gcore.jsdelivr.net/gh/runningcheese/search/assets/s18logo.png" width="148" height="148"/></p>
 <h1 align="center">影视导航</h1>
-干净，没有“ 在线发牌 ”的影视网站
+<p align="center">干净，没有“ 在线发牌 ”的影视网站</p>
 
-
+&nbsp;
 
 
 **入选条件：**
