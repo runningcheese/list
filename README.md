@@ -175,7 +175,7 @@
 
 
 
-推荐链接：
+推荐链接：来自 [@ls125781003](https://github.com/ls125781003/dmtg)
 
 ```
 https://gcore.jsdelivr.net/gh/ls125781003/dmtg/zy.json
